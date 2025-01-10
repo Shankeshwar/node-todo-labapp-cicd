@@ -15,5 +15,5 @@ Run these commands:
 
 or Run by docker compose
 
-test
+renamed the Repo from Lab to Test
 
